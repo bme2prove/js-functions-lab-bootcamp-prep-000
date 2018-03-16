@@ -1,2 +1,4 @@
 // write your code below!
-Function happyHolidays(sting)
+function happyHolidays(string) {
+  return 
+}
